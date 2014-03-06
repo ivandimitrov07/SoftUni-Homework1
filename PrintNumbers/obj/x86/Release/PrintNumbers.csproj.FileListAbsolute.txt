@@ -1,0 +1,5 @@
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintNumbers\bin\Release\PrintNumbers.exe
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintNumbers\bin\Release\PrintNumbers.pdb
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintNumbers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintNumbers\obj\x86\Release\PrintNumbers.exe
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintNumbers\obj\x86\Release\PrintNumbers.pdb

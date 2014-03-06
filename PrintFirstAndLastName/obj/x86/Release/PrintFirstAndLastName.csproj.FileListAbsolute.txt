@@ -1,0 +1,5 @@
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintFirstAndLastName\bin\Release\PrintFirstAndLastName.exe
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintFirstAndLastName\bin\Release\PrintFirstAndLastName.pdb
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintFirstAndLastName\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintFirstAndLastName\obj\x86\Release\PrintFirstAndLastName.exe
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintFirstAndLastName\obj\x86\Release\PrintFirstAndLastName.pdb

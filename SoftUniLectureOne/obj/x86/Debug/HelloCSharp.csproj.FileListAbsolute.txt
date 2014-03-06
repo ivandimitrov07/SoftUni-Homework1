@@ -1,0 +1,5 @@
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\SoftUniLectureOne\bin\Debug\SoftUniLectureOne.exe
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\SoftUniLectureOne\bin\Debug\SoftUniLectureOne.pdb
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\SoftUniLectureOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\SoftUniLectureOne\obj\x86\Debug\SoftUniLectureOne.exe
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\SoftUniLectureOne\obj\x86\Debug\SoftUniLectureOne.pdb

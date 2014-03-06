@@ -1,0 +1,5 @@
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\ReformatCSharpCode\bin\Release\ReformatCSharpCode.exe
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\ReformatCSharpCode\bin\Release\ReformatCSharpCode.pdb
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\ReformatCSharpCode\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\ReformatCSharpCode\obj\x86\Release\ReformatCSharpCode.exe
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\ReformatCSharpCode\obj\x86\Release\ReformatCSharpCode.pdb

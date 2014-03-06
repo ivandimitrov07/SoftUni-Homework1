@@ -1,0 +1,5 @@
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintMyName\bin\Release\PrintMyName.exe
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintMyName\bin\Release\PrintMyName.pdb
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintMyName\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintMyName\obj\x86\Release\PrintMyName.exe
+C:\Users\Hello\documents\visual studio 2010\Projects\SoftUniLectureOne\PrintMyName\obj\x86\Release\PrintMyName.pdb
